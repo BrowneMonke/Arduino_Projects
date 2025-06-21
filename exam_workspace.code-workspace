@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "Morse-trainer",
+			"path": "WeekProjecten/Week1/Morse-trainer"
+		},
+		{
+			"name": "Simon_Says",
+			"path": "WeekProjecten/Week2/Simon_Says"
+		},
+		{
+			"name": "Nim",
+			"path": "WeekProjecten/Week3/Nim"
+		},
+		{
+			"name": "SpaceX_HLS",
+			"path": "WeekProjecten/Week4/SpaceX_HLS"
+		},
+		{
+			"name": "Indiv_Project_50",
+			"path": "IndividueelProject/Indiv_Project_50"
+		},
+		{
+			"name": "libraries",
+			"path": "libraries"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"led.h": "c",
+			"display.h": "c",
+			"string.h": "c",
+			"button.h": "c",
+			"usart.h": "c",
+			"potentiometer.h": "c",
+			"timer.h": "c"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "button.h": "c",
+        "led.h": "c",
+        "interrupt.h": "c",
+        "delay.h": "c",
+        "io.h": "c",
+        "sfr_defs.h": "c",
+        "potentiometer.h": "c",
+        "timer.h": "c",
+        "usart.h": "c",
+        "buzzer.h": "c",
+        "display.h": "c"
+    }
+}
